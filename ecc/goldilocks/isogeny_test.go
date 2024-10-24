@@ -4,7 +4,7 @@ import (
 	"crypto/rand"
 	"testing"
 
-	"github.com/JI-0/circl-ed448/internal/test"
+	"github.com/JI-0/circl/internal/test"
 )
 
 func randomPoint() *Point {

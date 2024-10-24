@@ -6,11 +6,11 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/JI-0/circl-ed448/hpke"
+	"github.com/JI-0/circl/hpke"
 )
 
 func Example() {
-	// import "github.com/JI-0/circl-ed448/hpke"
+	// import "github.com/JI-0/circl/hpke"
 	// import "crypto/rand"
 
 	// HPKE suite is a domain parameter.

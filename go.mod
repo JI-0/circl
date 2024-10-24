@@ -1,4 +1,4 @@
-module github.com/JI-0/circl-ed448
+module github.com/JI-0/circl
 
 go 1.19
 

@@ -5,8 +5,8 @@ import (
 	"crypto/subtle"
 	"fmt"
 
-	"github.com/JI-0/circl-ed448/ecc/bls12381/ff"
-	"github.com/JI-0/circl-ed448/expander"
+	"github.com/JI-0/circl/ecc/bls12381/ff"
+	"github.com/JI-0/circl/expander"
 )
 
 // G2Size is the length in bytes of an element in G2 in uncompressed form..

@@ -14,7 +14,7 @@ import (
 	"encoding/binary"
 	"io"
 
-	"github.com/JI-0/circl-ed448/group"
+	"github.com/JI-0/circl/group"
 )
 
 const (
